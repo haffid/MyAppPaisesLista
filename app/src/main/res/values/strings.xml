@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Info País</string>
+    <string name="pais1">
+        País: Italia \nPoblacion: 60.36 millones (2019)
+    </string>
+    <string name="pais2">
+        País: Canada \nPoblacion: 37.59 millones (2019)
+    </string>
+    <string name="pais3">
+        País: Colombia \nPoblacion: 50.34 millones (2019)
+    </string>
+    <string name="pais4">
+        País: Argentina \nPoblacion: 44.94 millones (2019)
+    </string>
+    <string name="pais5">
+        País: Estados Unidos \nPoblacion: 328.2 millones (2019)
+    </string>
+    <string name="pais6">
+        País: Francia \nPoblacion: 67.06 millones (2019)
+    </string>
+    <string name="pais7">
+        País: España \nPoblacion: 46.94 millones (2019)
+    </string>
+    <string name="pais8">
+        País: China \nPoblacion: 1.398 miles de millones (2019)
+    </string>
+    <string name="pais9">
+        País: Japon \nPoblacion: 126.3 millones (2019)
+    </string>
+    <string name="pais10">
+        País: Camerun \nPoblacion: 25.88 millones (2019)
+    </string>
+</resources>
